@@ -8,7 +8,7 @@
 
 The URL of the GitHub [repository](https://github.com/tweeks07/react-portfolio)
 
-The URL of the Heroku [link](https://ancient-falls-64004.herokuapp.com/)
+The URL of the Heroku [link](https://lit-dawn-16577.herokuapp.com/)
 
 ## Contact Information
 ---
